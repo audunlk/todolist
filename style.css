@@ -1,0 +1,46 @@
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -2rem;
+    text-align: center;
+    list-style: none;
+    padding-top: 1em;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+
+}
+
+body{
+    width: 100%;
+    background-color:bisque
+}
+
+#entry{
+    
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+ 
+    border: 2px solid rgb(216, 113, 17);
+    
+}
+
+#add{
+    margin-top: 0.5rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+  
+    
+}
+
+.deleteItem{
+    font-weight: bolder;
+    color: rgb(155, 0, 0);
+    text-decoration: none;
+}
